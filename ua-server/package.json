@@ -1,0 +1,9 @@
+{
+  "name": "ua-server",
+  "version": "1.0.0",
+  "description": "User Agent Serverless API with persistent index",
+  "type": "module",
+  "dependencies": {
+    "@upstash/redis": "^1.31.0"
+  }
+}

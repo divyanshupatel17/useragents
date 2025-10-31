@@ -1,0 +1,9 @@
+{
+  "public": true,
+  "protection": false,
+  "functions": {
+    "api/**/*": {
+      "runtime": "edge"
+    }
+  }
+}
